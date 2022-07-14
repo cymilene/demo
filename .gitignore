@@ -1,0 +1,42 @@
+# IDE project files
+.classpath
+.floo
+.flooignore
+.project
+.settings
+environment.js
+cert.pem
+key.pem
+package-lock.json
+README.md
+signing.keystore
+telecom.apk
+.DS_Store
+
+# Configurations
+
+# Build artifacts
+.cache-loader
+.sass-cache
+.tmp
+.idea
+dist
+platforms
+plugins
+www
+docs/styleguide
+node
+resources
+e2e
+node_modules
+yarn.lock
+yarn-error.log
+src/components/help/api.html
+src/styles/*.css
+src/ui-metadata.json
+target
+
+# Test artifacts
+test/unit/test-coverage
+test/unit/karma-reporter
+test/unit/junit
